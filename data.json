@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "LG TV",
+      "category": "Electronics",
+      "price": "10000",
+      "stock": "11",
+      "description": "Television",
+      "id": 1
+    },
+    {
+      "name": "Sony TV",
+      "category": "Electronics",
+      "price": "10000",
+      "stock": "20",
+      "description": "Television",
+      "id": 2
+    },
+    {
+      "name": "JBL",
+      "category": "Electronics",
+      "price": "1200",
+      "stock": "12",
+      "description": "Speakers",
+      "id": 3
+    }
+  ]
+}
